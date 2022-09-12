@@ -13,4 +13,4 @@ HTML5, CSS3, SCSS, Vue.js, JS, Git, Github
 Home, Inventory, Request a car, Contact us, About, Loan rates, Video, Blog, Calculate
 Privacy, Terms, 404
 
-[Project link:] (https://valeryshumeyko.github.io/VueVAC.github.io/)
+Project link: https://valeryshumeyko.github.io/VueVAC.github.io/
